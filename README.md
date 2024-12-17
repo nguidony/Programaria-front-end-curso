@@ -1,4 +1,3 @@
-# Programaria-front-end-curso
 # ✨ Projeto: Primeira Página Web ✨
 
 Este é um projeto desenvolvido como parte do curso **"Front-End: Primeira Página Web"** da [PrograMaria](https://www.programaria.org/cursos-programaria/front-end-primeira-pagina-web/). Durante o curso, explorei os fundamentos de HTML, CSS e JavaScript para criar uma página web sobre Ada Lovelace, considerada a primeira programadora da história.
